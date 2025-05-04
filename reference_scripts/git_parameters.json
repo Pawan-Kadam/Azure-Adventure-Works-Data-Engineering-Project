@@ -1,0 +1,52 @@
+[
+    {
+        "git_rel_url" : "Pawan-Kadam/Azure-Adventure-Works-Data-Engineering-Project/refs/heads/main/data/AdventureWorks_Product_Categories.csv",
+        "sink_folder" : "AdventureWorks_Product_Categories",
+        "sink_file" : "AdventureWorks_Product_Categories.csv"
+    },
+    {
+        "git_rel_url" : "Pawan-Kadam/Azure-Adventure-Works-Data-Engineering-Project/refs/heads/main/data/AdventureWorks_Calendar.csv",
+        "sink_folder" : "AdventureWorks_Calendar",
+        "sink_file" : "AdventureWorks_Calendar.csv"
+    },
+    {
+        "git_rel_url" : "Pawan-Kadam/Azure-Adventure-Works-Data-Engineering-Project/refs/heads/main/data/AdventureWorks_Customers.csv",
+        "sink_folder" : "AdventureWorks_Customers",
+        "sink_file" : "AdventureWorks_Customers.csv"
+    },
+    {
+        "git_rel_url" : "Pawan-Kadam/Azure-Adventure-Works-Data-Engineering-Project/refs/heads/main/data/AdventureWorks_Product_Subcategories.csv",
+        "sink_folder" : "Product_Subcategories",
+        "sink_file" : "AdventureWorks_Product_Subcategories.csv"
+    },
+    {
+        "git_rel_url" : "Pawan-Kadam/Azure-Adventure-Works-Data-Engineering-Project/refs/heads/main/data/AdventureWorks_Products.csv",
+        "sink_folder" : "AdventureWorks_Products",
+        "sink_file" : "AdventureWorks_Products.csv"
+    },
+    {
+        "git_rel_url" : "Pawan-Kadam/Azure-Adventure-Works-Data-Engineering-Project/refs/heads/main/data/AdventureWorks_Returns.csv",
+        "sink_folder" : "AdventureWorks_Returns",
+        "sink_file":"AdventureWorks_Returns.csv"
+    },
+    {
+        "git_rel_url" : "Pawan-Kadam/Azure-Adventure-Works-Data-Engineering-Project/refs/heads/main/data/AdventureWorks_Sales_2015.csv",
+        "sink_folder" : "AdventureWorks_Sales_2015",
+        "sink_file" : "AdventureWorks_Sales_2015.csv"
+    },
+    {
+        "git_rel_url" : "Pawan-Kadam/Azure-Adventure-Works-Data-Engineering-Project/refs/heads/main/data/AdventureWorks_Sales_2016.csv",
+        "sink_folder" : "AdventureWorks_Sales_2016",
+        "sink_file" : "AdventureWorks_Sales_2016.cvsv"
+    },
+    {
+        "git_rel_url" : "Pawan-Kadam/Azure-Adventure-Works-Data-Engineering-Project/refs/heads/main/data/AdventureWorks_Sales_2017.csv",
+        "sink_folder" : "AdventureWorks_Sales_2017",
+        "sink_file" : "AdventureWorks_Sales_2017.csv"
+    },
+    {
+        "git_rel_url" : "Pawan-Kadam/Azure-Adventure-Works-Data-Engineering-Project/refs/heads/main/data/AdventureWorks_Territories.csv",
+        "sink_folder" : "AdventureWorks_Territories",
+        "sink_file" : "AdventureWorks_Territories.csv"
+    }
+]
