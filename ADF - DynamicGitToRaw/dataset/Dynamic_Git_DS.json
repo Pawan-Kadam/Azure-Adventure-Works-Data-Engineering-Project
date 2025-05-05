@@ -1,0 +1,31 @@
+{
+    "name": "Dynamic_Git_DS",
+    "properties": {
+        "linkedServiceName": {
+            "referenceName": "Kaggle_LS",
+            "type": "LinkedServiceReference"
+        },
+        "parameters": {
+            "git_rel_url": {
+                "type": "String"
+            }
+        },
+        "annotations": [],
+        "type": "DelimitedText",
+        "typeProperties": {
+            "location": {
+                "type": "HttpServerLocation",
+                "relativeUrl": {
+                    "value": "@dataset().git_rel_url",
+                    "type": "Expression"
+                }
+            },
+            "columnDelimiter": ",",
+            "escapeChar": "\\",
+            "firstRowAsHeader": true,
+            "quoteChar": "\""
+        },
+        "schema": []
+    },
+    "type": "Microsoft.DataFactory/factories/datasets"
+}

@@ -1,0 +1,6 @@
+selected resource name:		DynaminGitToRaw
+selected resource type:		pipeline
+factory name:			awdeadf
+factory location:		eastus
+subscription id:		08aac9bc-5146-4e2a-80ab-8260530cd258
+time of download (UTC):		Mon, 05 May 2025 16:57:14 GMT
